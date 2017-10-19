@@ -5,6 +5,9 @@ import (
 	"reflect"
 )
 
+func SayHello()  {
+	fmt.Println("hello")
+}
 var x = 100
 
 func main() {
